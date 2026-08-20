@@ -1,9 +1,4 @@
 name = "herbert Gomes"
-precoNegoBom = 2.50
-nota1 = 8
-nota2 = 9
-media = (nota1 +  nota2)/2
-
-if(media>=7){
-    console.log("voce passou, parabéns, sua média é: " + media)
-}
+negoBom = 2.50
+comprar = 50 * negoBom
+console.log("O valor total é " + comprar)
